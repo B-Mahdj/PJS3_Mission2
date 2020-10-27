@@ -5,4 +5,4 @@ La réponse à ces 2 questions devra etre présenté sur un site avec BootStrap 
 
 Pour plus d'informations, voir "PJS3_2020-2021_Mission_2.pdf" dans le répertoire "Sujet + Data". 
 
-Démarrage : 02/10/2020 - > 22/10/2020 
+Démarrage : 02/10/2020 - > 23/10/2020 
